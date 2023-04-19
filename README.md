@@ -10,7 +10,7 @@
 2. 对于切patch数据集，需要提供(6000, 4000)分辨率的验证集图片的PSNR以及SSIM。还有拼接完成后的验证集图片。切patch数据集可以用我提供的工具生成。
 
 ## 数据集下载地址：
-1. [低分数据集](https://drive.google.com/file/d/1sheHZJXVY9swZMpDGl8ZFcYzNdzKRLn4/view?usp=sharing)，这个数据集是经过扩充的有200+张，包括训练验证，测试（没有GT）
+1. [低分数据集](https://drive.google.com/file/d/1VWjuRNwIFBhR-3NmFHlMcEZx1edKjEJB/view?usp=sharing)，这个数据集是经过扩充的有200+张，包括训练验证，测试（没有GT）
 2. [原数据集](https://drive.google.com/file/d/1e8mvPlNMm2A1rpqzNvNPuswVMFPCU7gK/view?usp=share_link)，可以随意切任意patch使用，没有扩充，只有40张。
 
 ## 关于本repo
